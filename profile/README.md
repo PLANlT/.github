@@ -6,6 +6,11 @@
 <br>
 <br>
 
+![그래픽이미지](https://github.com/user-attachments/assets/9ed83f00-bbf7-49ec-9e0a-94637bb6f141)
+
+<br>
+<br>
+
 <img align="center" src="https://github.com/user-attachments/assets/c7a2071e-ae36-4f77-a9c8-f183fe5fbb9a" />
 <img align="center" src="https://github.com/user-attachments/assets/cad871e8-855a-4bf1-b9c9-281fa05c07a1" />
 <img align="center" src="https://github.com/user-attachments/assets/eaf45627-2534-4bc1-a6df-45eff7e48ec2" />
