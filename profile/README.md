@@ -1,7 +1,7 @@
 <p>
   <img align="left" width="100" height="100" alt="Logo" src="https://github.com/user-attachments/assets/f1182fac-32f1-45e5-a60c-104111ba1eec" />
   <h3>PLANIT</h3>
-  <div>사용자의 작은 성공을 응원하는 목표 달성 앱</div>
+  <div>그냥 딱 한 걸음만, 오늘은 그걸로 충분해요</div>
 </p>
 <br>
 <br>
